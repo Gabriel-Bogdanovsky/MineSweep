@@ -146,4 +146,6 @@ void main(void)
 
 	}
 	getche(&c);
+
+	
 }
